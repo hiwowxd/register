@@ -1,0 +1,11 @@
+{
+  "description": "Jinnhost site u can get all my projects from ",
+  "repo": "https://github.com/hiwowxd/jinnhost",
+  "owner": {
+    "username": "hiwowxd",
+    "email": "lolgerrybiglegs@gmail.com"  
+  },
+  "record": {
+    "CNAME": "hiwowxd.github.io"
+  }
+}
